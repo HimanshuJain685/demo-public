@@ -1,0 +1,3 @@
+[submodule "private-content"]
+	path = private-content
+	url = git@github.com:HimanshuJain685/demo-private.git
